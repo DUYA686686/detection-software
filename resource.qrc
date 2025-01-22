@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="images">
+    <file>image/bridge_3.png</file>
+    <file>image/bridge_2.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icons/left.png</file>
+    <file>icons/right.png</file>
+    <file>icons/file.png</file>
+    <file>icons/minus-bold.png</file>
+    <file>icons/close.png</file>
+    <file>icons/guide.png</file>
+    <file>icons/max.png</file>
+    <file>icons/maximize.png</file>
+    <file>icons/minimize.png</file>
+    <file>icons/close2.png</file>
+    <file>icons/minus.png</file>
+  </qresource>
+</RCC>
